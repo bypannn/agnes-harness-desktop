@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.app/
+*.dmg
+*.p12
+*.p8
+*.key
+*.pem
+*.cer
+*.certSigningRequest
+*.notary-log.json
+notary-*.json
+dist/
+work/
